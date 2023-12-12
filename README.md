@@ -10,8 +10,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](<img width="654" alt="image" src="https://github.com/CaluRo/CaluRo.github.io/assets/151804212/950965f4-eed4-4056-a44e-f798928c0e79">
-)
+![Primera parte de la página web](imagenes/Primera-Pantalla.png)
 
 Experiencia:
 
